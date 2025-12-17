@@ -1,0 +1,10 @@
+streamlit
+pandas
+google-generativeai
+google-play-scraper
+requests
+plotly
+python-dotenv
+pydantic
+nbformat>=4.2.0
+ipywidgets
